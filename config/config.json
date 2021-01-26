@@ -1,0 +1,8 @@
+{
+  "development": {
+    "use_env_variable": "DATABASE_DEV"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_PROD"
+  }
+}
